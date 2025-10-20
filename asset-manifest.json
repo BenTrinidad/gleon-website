@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gleon-website/static/css/main.4ede77ac.css",
+    "main.js": "/gleon-website/static/js/main.a69d6890.js",
+    "static/js/453.38f53ad2.chunk.js": "/gleon-website/static/js/453.38f53ad2.chunk.js",
+    "index.html": "/gleon-website/index.html",
+    "main.4ede77ac.css.map": "/gleon-website/static/css/main.4ede77ac.css.map",
+    "main.a69d6890.js.map": "/gleon-website/static/js/main.a69d6890.js.map",
+    "453.38f53ad2.chunk.js.map": "/gleon-website/static/js/453.38f53ad2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ede77ac.css",
+    "static/js/main.a69d6890.js"
+  ]
+}
