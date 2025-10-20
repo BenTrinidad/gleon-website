@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gleon-website/static/css/main.4ede77ac.css",
-    "main.js": "/gleon-website/static/js/main.26d40a31.js",
+    "main.css": "/gleon-website/static/css/main.b81a0a37.css",
+    "main.js": "/gleon-website/static/js/main.078e858e.js",
     "static/js/453.38f53ad2.chunk.js": "/gleon-website/static/js/453.38f53ad2.chunk.js",
     "index.html": "/gleon-website/index.html",
-    "main.4ede77ac.css.map": "/gleon-website/static/css/main.4ede77ac.css.map",
-    "main.26d40a31.js.map": "/gleon-website/static/js/main.26d40a31.js.map",
+    "main.b81a0a37.css.map": "/gleon-website/static/css/main.b81a0a37.css.map",
+    "main.078e858e.js.map": "/gleon-website/static/js/main.078e858e.js.map",
     "453.38f53ad2.chunk.js.map": "/gleon-website/static/js/453.38f53ad2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ede77ac.css",
-    "static/js/main.26d40a31.js"
+    "static/css/main.b81a0a37.css",
+    "static/js/main.078e858e.js"
   ]
 }
